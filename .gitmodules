@@ -1,0 +1,3 @@
+[submodule "iris_src"]
+	path = iris_src
+	url = git@github.com:Parakoopa/Iris.git
