@@ -2,21 +2,12 @@
 www/
 !www/.gitkeep
 
-# Android
-platforms/android/assets/www
-platforms/android/bin/
-platforms/android/gen/
-platforms/android/res/xml/config.xml
+# Cordova
+platforms/
+plugins/
 
-# iOS
-platforms/ios/build/
-platforms/ios/CordovaLib/build/
-platforms/ios/www
-platforms/ios/MyPace/config.xml
-platforms/ios/.staging
-
-# Emulator logs
-platforms/ios/cordova/console.log
+# npm
+node_modules/
 
 # Webstorm
 .idea/
